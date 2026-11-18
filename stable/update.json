@@ -1,0 +1,13 @@
+{
+  "format": "shiyi-online-test-v1",
+  "product": "shiyi",
+  "channel": "stable",
+  "version": "2.1.17",
+  "build_id": "20261117-100709",
+  "release_sequence": 7402,
+  "zip_path": "packages/synthetic-19-2MiB.zip",
+  "zip_size": 20132799,
+  "zip_sha256": "67049ef32a8c332f34c2fa4f8f4abb3d87efed94d4e9b8c1e3c9f3adc1faf4ea",
+  "test_only": true,
+  "signature": "placeholder-not-for-installation"
+}
